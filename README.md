@@ -3,6 +3,9 @@ Hello, Welcome to my Profile
 ## Bio 
 ![alt text](images/PXL_20211029_144434151.PORTRAIT.jpg)
 
+<p align="right">
+  <img src="images/PXL_20211029_144434151.PORTRAIT.jpg" width="350" title="hover text">
+</p>
 
 I am a Ph.D. student at Czech Technical University in Prague, supervised by [Dr. Torsten Sattler](https://tsattler.github.io/) and co-advised by [Dr. Pavel Burget](https://testbed-test.ciirc.cvut.cz/people/pavel-burget/). I am also working at Testbed for Industry 4.0, CIIRC as a Graduate researcher. 
 
