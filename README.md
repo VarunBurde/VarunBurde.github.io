@@ -1,9 +1,4 @@
-
-<title>
-
 Hello, Welcome to my Profile
-
-</title>
 
 
 ![](images/PXL_20211029_144434151.PORTRAIT.jpg)
