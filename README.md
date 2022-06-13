@@ -9,6 +9,6 @@ in Electronics and Communication engineering.
 
 [Email](varun.burde@cvut.cz) [CV](data/CV_Burde_Varun.pdf) [LinkedIn](https://www.linkedin.com/in/varun-burde/) [GitHub](https://github.com/VarunBurde)
 
-veritifiation[](data/google306f438dcc347c47.html) 
+[veritifiation](data/google306f438dcc347c47.html) 
 
 
