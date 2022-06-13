@@ -1,11 +1,10 @@
 
+<title>
+
 Hello, Welcome to my Profile
 
-<head> 
-<meta name="google-site-verification" content="rYNvs95-402ghkJkBJ17nd8MmW2zb_5TdJ3z8-Lewu0" /><title>
-
 </title>
-</head>
+
 
 ![](images/PXL_20211029_144434151.PORTRAIT.jpg)
 
@@ -16,6 +15,4 @@ in Electronics and Communication engineering.
 
 [Email](varun.burde@cvut.cz) [CV](data/CV_Burde_Varun.pdf) [LinkedIn](https://www.linkedin.com/in/varun-burde/) [GitHub](https://github.com/VarunBurde)
 
-[veritifiation](data/google306f438dcc347c47.html) 
 
-google-site-verification: google306f438dcc347c47.html
